@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4ae96c6b.css",
-    "main.js": "/static/js/main.efdf891c.js",
+    "main.js": "/static/js/main.07a5014d.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
-    "static/media/project_1.png": "/static/media/project_1.4209449582a2b1d4cc9b.png",
+    "static/media/HR Analytics Dashboard.png": "/static/media/HR Analytics Dashboard.ab1a58da871d97c2c29a.png",
+    "static/media/Anuj Kothiyal Data Analyst.pdf": "/static/media/Anuj Kothiyal Data Analyst.e92ab959ba5fc0bdba88.pdf",
     "static/media/contact-us.jpg": "/static/media/contact-us.760a3c165c6854bed3b8.jpg",
     "static/media/Anuj Photo.jpg": "/static/media/Anuj Photo.af13e7e25ad38cf54c2a.jpg",
     "index.html": "/index.html",
-    "static/media/resume.txt": "/static/media/resume.9be822e57cf10c51a6de.txt",
     "main.4ae96c6b.css.map": "/static/css/main.4ae96c6b.css.map",
-    "main.efdf891c.js.map": "/static/js/main.efdf891c.js.map",
+    "main.07a5014d.js.map": "/static/js/main.07a5014d.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ae96c6b.css",
-    "static/js/main.efdf891c.js"
+    "static/js/main.07a5014d.js"
   ]
 }
